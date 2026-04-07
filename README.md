@@ -85,3 +85,6 @@ Date Range, Product, and Marketing Channel.
 When I first looked at this marketing dataset, the company was flying blind—spending heavily across four channels without knowing which one truly moved the needle.
 I began by cleaning the data, stripping away calculation errors and inconsistencies to reveal the truth behind the numbers. My analysis uncovered a fascinating paradox: while Email brought in the most cash, Search Engine marketing was the hidden engine of efficiency, delivering 20% more value per dollar spent.
 I discovered that Product C was a superstar in the East, yet almost invisible in the South. By connecting these dots, I developed a strategy to pivot the budget away from expensive, low-return 'Direct Mail' toward high-efficiency 'Search Engine' tactics. This project isn't just about charts; it's about transforming a fragmented marketing spend into a precision growth engine.
+### Chisom Precious
+Data Analyst | Power BI Developer | Business Analyst | Aspiring Data Scientist.
+

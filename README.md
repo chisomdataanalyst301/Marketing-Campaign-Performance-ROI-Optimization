@@ -15,7 +15,7 @@ Focus on products and regions with the highest growth potential.
 #### Reduce Waste:
 Identify and eliminate inefficiencies in ad spend.
 ## Project Overview
-This report evaluates the fiscal performance and operational efficiency of the organization’s marketing division. By auditing $261,166 in advertising expenditure across four primary digital and physical channels, this analysis seeks to identify high-yield growth opportunities and eliminate cost inefficiencies. The project concludes with a strategic reallocation plan designed to maximize total revenue and optimize the portfolio’s Return on Investment (ROI).It contain 101 dataset.
+This report evaluates the fiscal performance and operational efficiency of the organization’s marketing division. By auditing $261,166 in advertising expenditure across four primary digital and physical channels, this analysis seeks to identify high-yield growth opportunities and eliminate cost inefficiencies. The project concludes with a strategic reallocation plan designed to maximize total revenue and optimize the portfolio’s Return on Investment (ROI). It contain 101 dataset.
 
 ## Data Methodology & Governance
 To ensure the integrity of the findings, a rigorous Data Quality Audit (DQA) was performed using Python.
